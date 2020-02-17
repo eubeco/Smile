@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Smile</string>
+    <string name="smile">M 30,65 Q 50,85 70,65</string>
+    <string name="not_smile">M 30,75 Q 50,55 70,75</string>
+</resources>
